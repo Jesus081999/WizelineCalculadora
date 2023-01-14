@@ -1,5 +1,4 @@
-from Calculadora import Calculadora
+from Controlador import Controlador
 
-opcion = 1
-print("calculadora.getMenu()")
+controlador = Controlador()
 
